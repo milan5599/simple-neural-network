@@ -5,4 +5,4 @@ My version is written in JavaScript and jQuery.
 
 You can test this simple neural network in your web browser by downloading the repository (only index.html and neural-network.js files are needed). 
 
-There's also a [newer version](https://github.com/milan5599/simple-neural-network/tree/version-with-user-input) with userdata input.
+There's also a [newer version](https://github.com/milan5599/simple-neural-network/tree/version-with-user-input) with user data input.
